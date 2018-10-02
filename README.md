@@ -26,10 +26,10 @@ This repository contains the implementation codes for various popular algorithms
 
 ## Others
 
-* [Closest Pairs](https://github.com/hardianlawi/algorithm-implementation/blob/master/scripts/others/closestPairs.py)
-* [Counting Inversion](https://github.com/hardianlawi/algorithm-implementation/blob/master/scripts/others/countInversion.py)
-* [Estimating root square using binary search](https://github.com/hardianlawi/algorithm-implementation/blob/master/scripts/others/squareRoot_BS.py)
-* [Random Contraction](https://github.com/hardianlawi/algorithm-implementation/blob/master/scripts/others/randomContraction.py)
+* [Closest Pairs](https://github.com/hardianlawi/algorithm-implementation/blob/master/scripts/others/closestPairs.py) - `O(n^2)`
+* [Counting Inversion](https://github.com/hardianlawi/algorithm-implementation/blob/master/scripts/others/countInversion.py) - `O(n^2)`
+* [Estimating root square using binary search](https://github.com/hardianlawi/algorithm-implementation/blob/master/scripts/others/squareRoot_BS.py) - `O(log(n))`
+* [Random Contraction](https://github.com/hardianlawi/algorithm-implementation/blob/master/scripts/others/randomContraction.py) - `O(n)`
 
 # Any questions?
 Feel free to open issues if you have any questions
